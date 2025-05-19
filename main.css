@@ -29,6 +29,7 @@ container {
 border-radius: 5px;
 background-color: #a02828;
 padding: 10px;
+margin: 40px auto;
 }
 
 /* Create two columns that float next to each other */
